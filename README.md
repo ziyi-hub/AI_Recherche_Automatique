@@ -12,6 +12,7 @@ Documents multimédia : description et recherche automatique
 - ssh ziwang@access.grid5000.fr
 - https://intranet.grid5000.fr/notebooks/hub/home
 - scp ziwang@access.grid5000.fr:/mnt/home/lille/ziwang/TP3.ipynb ./TP3.ipynb
+- nvidia-smi
 
 ## Install without terminal
 - !pip install torchvision
