@@ -14,8 +14,8 @@ Documents multimédia : description et recherche automatique
 - scp ziwang@access.grid5000.fr:/mnt/home/lille/ziwang/TP3.ipynb ./TP3.ipynb
 - scp ziwang@access.grid5000.fr:/mnt/home/rennes/ziwang/Projet_2.ipynb ./Projet_6.ipynb
 - nvidia-smi
-- 82.390% epoche 60
-- 80.250% epoche 50
+- 76.270% epoch 10 ResNet
+- 72.790% epoch 10 VGG 
 
 ## Install without terminal
 - !pip install torchvision
