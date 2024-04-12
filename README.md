@@ -10,7 +10,7 @@ Documents multimédia : description et recherche automatique
 
 ## Access ssh grid5000
 - ssh ziwang@access.grid5000.fr
-- https://intranet.grid5000.fr/notebooks/hub/home
+- https://intranet.grid5000.fr/notebooks/hub/home 
 - scp ziwang@access.grid5000.fr:/mnt/home/lille/ziwang/TP3.ipynb ./TP3.ipynb
 - scp ziwang@access.grid5000.fr:/mnt/home/rennes/ziwang/Projet_2.ipynb ./Projet_6.ipynb
 - nvidia-smi
