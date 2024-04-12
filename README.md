@@ -12,7 +12,7 @@ Documents multimédia : description et recherche automatique
 - ssh ziwang@access.grid5000.fr
 - https://intranet.grid5000.fr/notebooks/hub/home 
 - scp ziwang@access.grid5000.fr:/mnt/home/lille/ziwang/TP3.ipynb ./TP3.ipynb
-- scp ziwang@access.grid5000.fr:/mnt/home/rennes/ziwang/Projet_2.ipynb ./Projet_6.ipynb
+- scp ziwang@access.grid5000.fr:/mnt/home/rennes/ziwang/Projet_2.ipynb ./Projet_final.ipynb
 - nvidia-smi
 - 76.270% epoch 10 ResNet
 - 72.790% epoch 10 VGG 
